@@ -1,0 +1,49 @@
+.header {
+	color: blue;
+}
+
+/*---------------------------------------- Заголовки */
+#title-one {
+	color: blue;
+}
+
+#titel-two {
+	color: blue;
+}
+
+#titel-three {
+	color: blue;
+}
+
+#last-title {
+	color: blue;
+}
+
+/*------------------------------------------ Тексти */
+
+
+.firt-paragraph > p{
+color: blueviolet;
+}
+
+
+
+.from{
+	color: chocolate;
+} 
+
+div.text {
+	color: brown;
+}
+
+.next ~ p{
+	color: coral;
+}
+
+.first-end + p{
+	color: yellowgreen;
+}
+
+.first-end{
+	color: blueviolet;
+}
